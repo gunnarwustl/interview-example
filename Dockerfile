@@ -1,4 +1,4 @@
-FROM docker.io/ubuntu:focal
+FROM docker.io/ubuntu:bionic
 
 LABEL org.opencontainers.image.source='https://github.com/gunnarwustl/interview-example'
 
